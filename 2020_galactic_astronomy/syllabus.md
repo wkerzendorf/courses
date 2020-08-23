@@ -36,14 +36,12 @@ You may also send direct messages via mattermost to the instructor or any other 
 
 ### Text book and references
 
-See [Resources](resources.rst) in the main folder for a link to resources. See the resources.rst file in each of the lecture subfolders for resources for that specific lecture.
+See [Resources](resources.md) in the main folder for a link to resources. See the resources.rst file in each of the lecture subfolders for resources for that specific lecture.
 
 
 ### Assignments
 
-There will be reading and problem sets assigned on a roughly bi-weekly basis. See [Assignments](assignments.md) for a complete listing (forthcoming 2nd week of class). See the resources.rst in each folder for the assigned watching of videos and reading. You will be expected to complete the reading _prior_ to class as not _all_ the reading material will be covered in lecture, but you _will_ need to know it in order to complete the problems. 
-
-Group work on the problem sets is encouraged and you are encouraged to turn in the problem sets with a maximum of 2 names assigned. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to work with classmates on assignments, you must explicitly acknowledge them by name and indicate their contributions in your final write-up. 
+There will be reading and problem sets assigned on a roughly bi-weekly basis. Group work on the problem sets is encouraged and you are encouraged to turn in the problem sets with a maximum of 2 names assigned. No rule of scholarly activity is more important than giving proper credit to the contributions of others. Although you are free to work with classmates on assignments, you must explicitly acknowledge them by name and indicate their contributions in your final write-up. 
 
 ### Projects
 
