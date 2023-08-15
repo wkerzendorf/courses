@@ -1,6 +1,6 @@
 # Syllabus
 
-## Fall 2019, Michigan State University
+## Fall 2023, Michigan State University
 
 This is an advanced graduate-level course covering the essentials of radiation processes in astrophysics.
 
@@ -16,7 +16,7 @@ Be able to convert cgs units to SI units and vice versa(e.g. astropy)
 Be able to conceptually describe Maxwell’s equations, based on fundamental knowledge of EM
 Be able to describe black-body radiation(general equation, not reasoning)
 
-#### Part 2: Medium(Matter, if we want to sound cool)
+#### Part 2: Matter
 Learning goals:
 Be able to describe basic atomic structure(visual representation)
 Be able to identify main forms of particles(atoms and/or molecules) that are essential to astrophysics
