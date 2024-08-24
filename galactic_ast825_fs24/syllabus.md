@@ -34,9 +34,6 @@ The primary vehicle for communication regarding this course will be [Mattermost]
 Specifically, there is a `kerzendorf-galactic-fs24` channel in the [AstroMSU](https://5fcw2e.stackhero-network.com) mattermost workspace. Contact me if you do not have access to this service yet. Discussion of course subject material and problems is encouraged.
 You may also send direct messages via mattermost to the instructor or any other member of the workspace.
 
-### Text book and references
-
-See [Resources](resources.md) in the main folder for a link to resources.
 
 
 ### Assignments
